@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Interactive Tech Glyph Definitions -->
+  <g id="processor">
+    <rect x="25" y="25" width="50" height="50" rx="8" stroke="#3b82f6" stroke-width="4" fill="none"/>
+    <path d="M40 25V15M50 25V15M60 25V15M40 75V85M50 75V85M60 75V85M25 40H15M25 50H15M25 60H15M75 40H85M75 50H85M75 60H85" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+    <rect x="40" y="40" width="20" height="20" rx="4" fill="#3b82f6"/>
+  </g>
+  <g id="cloud">
+    <path d="M30 65C23 65 18 60 18 53C18 47 22 42 28 41C31 32 40 25 50 25C61 25 70 33 72 43C78 44 82 49 82 55C82 61 77 65 71 65H30Z" stroke="#38bdf8" stroke-width="4" fill="none" stroke-linejoin="round"/>
+  </g>
+</svg>
